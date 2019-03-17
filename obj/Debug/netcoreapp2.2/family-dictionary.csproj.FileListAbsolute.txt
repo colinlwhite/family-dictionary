@@ -1,0 +1,11 @@
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.deps.json
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.runtimeconfig.json
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.runtimeconfig.dev.json
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.dll
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/bin/Debug/netcoreapp2.2/family-dictionary.pdb
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.csprojAssemblyReference.cache
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.csproj.CoreCompileInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.AssemblyInfoInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.AssemblyInfo.cs
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.dll
+/Users/colinwhite/workspace/back-end/exercises/family-dictionary/obj/Debug/netcoreapp2.2/family-dictionary.pdb
